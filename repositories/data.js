@@ -1,0 +1,51 @@
+export const data = [
+  {
+    ID: "1aaa",
+    Name: "An Idea",
+    Date: "6/6/2021",
+    Category: "Idea",
+    Content: "My awesome idea",
+  },
+  {
+    ID: "2bbb",
+    Name: "Some Thougth",
+    Date: "1/1/2021",
+    Category: "Random Thougth",
+    Content: "Today I had this awesome thougth",
+  },
+  {
+    ID: "3ccc",
+    Name: "Finish task 3",
+    Date: "5/6/2021",
+    Category: "Task",
+    Content: "I need to write some backend stuff",
+  },
+  {
+    ID: "4ddd",
+    Name: "Mahatma Gandhi Quote",
+    Date: "26/12/1924",
+    Category: "Quote",
+    Content: "An eye for eye only ends up making the whole world blind.",
+  },
+  {
+    ID: "5eeee",
+    Name: "Buy a milk",
+    Date: "6/6/2021",
+    Category: "Shoping List",
+    Content: "8/6/2021 buy some milk",
+  },
+  {
+    ID: "6fff",
+    Name: "Stupid Idea",
+    Date: "1/3/2021",
+    Category: "Idea",
+    Content: "Maybe it's a stupid idea, but...",
+  },
+  {
+    ID: "7ggg",
+    Name: "Last Task",
+    Date: "25/1/2021",
+    Category: "Task",
+    Content: "Just do it",
+  },
+];
